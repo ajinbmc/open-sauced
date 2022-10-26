@@ -13,7 +13,6 @@ function Footer() {
             <FaGithub className="text-offWhite hover:text-accent" />
           </a>
         </li>
-        <div>hihihih</div>
         <li className="p-2 sm:mr-5">
           <a href="https://twitter.com/saucedopen"
              target="_blank" rel="noreferrer"
